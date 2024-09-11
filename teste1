@@ -1,0 +1,4 @@
+arquivo = open('arqtext.txt','w')
+arquivo.write('Curso de Python\n')
+arquivo.write('Aula Prática')
+arquivo.close()
